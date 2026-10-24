@@ -1,0 +1,6 @@
+pasta
+chicken
+cheese
+vegetables
+milk
+salt
